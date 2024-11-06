@@ -138,4 +138,4 @@ Total Profit: 142
 This program effectively schedules jobs to maximize profit while respecting their deadlines, providing a clear view of which jobs were chosen and the total profit generated.
 */
 
-job sequencing mdhe add kr
+
